@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Block Installer", "Block Installer\Block Installer.csproj", "{CECF1CF1-D87C-46F8-82F8-BA1A9AE37EBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CECF1CF1-D87C-46F8-82F8-BA1A9AE37EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECF1CF1-D87C-46F8-82F8-BA1A9AE37EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECF1CF1-D87C-46F8-82F8-BA1A9AE37EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECF1CF1-D87C-46F8-82F8-BA1A9AE37EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B349216-4236-48F5-A1BE-3636E802685D}
+	EndGlobalSection
+EndGlobal
