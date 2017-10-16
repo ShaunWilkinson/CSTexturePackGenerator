@@ -54,10 +54,11 @@
             // 
             // locationInput
             // 
+            this.locationInput.Font = new System.Drawing.Font("Tahoma", 7.8F);
             this.locationInput.Location = new System.Drawing.Point(15, 225);
             this.locationInput.Margin = new System.Windows.Forms.Padding(4);
             this.locationInput.Name = "locationInput";
-            this.locationInput.Size = new System.Drawing.Size(413, 22);
+            this.locationInput.Size = new System.Drawing.Size(413, 23);
             this.locationInput.TabIndex = 0;
             this.locationInput.TextChanged += new System.EventHandler(this.locationInput_TextChanged);
             // 
@@ -65,16 +66,18 @@
             // 
             this.label1.AutoSize = true;
             this.label1.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.label1.Font = new System.Drawing.Font("Tahoma", 7.8F);
             this.label1.Location = new System.Drawing.Point(12, 204);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(197, 17);
+            this.label1.Size = new System.Drawing.Size(193, 17);
             this.label1.TabIndex = 1;
             this.label1.Text = "Colony Survival Root Location";
             // 
             // GameRootBrowseBtn
             // 
             this.GameRootBrowseBtn.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.GameRootBrowseBtn.Font = new System.Drawing.Font("Tahoma", 7.8F);
             this.GameRootBrowseBtn.Location = new System.Drawing.Point(436, 221);
             this.GameRootBrowseBtn.Margin = new System.Windows.Forms.Padding(4);
             this.GameRootBrowseBtn.Name = "GameRootBrowseBtn";
@@ -91,25 +94,29 @@
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.label2.Font = new System.Drawing.Font("Tahoma", 7.8F);
             this.label2.Location = new System.Drawing.Point(12, 260);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(169, 17);
+            this.label2.Size = new System.Drawing.Size(164, 17);
             this.label2.TabIndex = 3;
             this.label2.Text = "Texture Pack Root Folder";
             // 
             // modFolderInput
             // 
+            this.modFolderInput.Font = new System.Drawing.Font("Tahoma", 7.8F);
             this.modFolderInput.Location = new System.Drawing.Point(15, 281);
             this.modFolderInput.Margin = new System.Windows.Forms.Padding(4);
             this.modFolderInput.Name = "modFolderInput";
-            this.modFolderInput.Size = new System.Drawing.Size(413, 22);
+            this.modFolderInput.Size = new System.Drawing.Size(413, 23);
             this.modFolderInput.TabIndex = 4;
             this.modFolderInput.TextChanged += new System.EventHandler(this.modFolderInput_TextChanged);
             // 
             // ModRootBrowseBtn
             // 
             this.ModRootBrowseBtn.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.ModRootBrowseBtn.Font = new System.Drawing.Font("Tahoma", 7.8F);
             this.ModRootBrowseBtn.Location = new System.Drawing.Point(436, 277);
             this.ModRootBrowseBtn.Margin = new System.Windows.Forms.Padding(4);
             this.ModRootBrowseBtn.Name = "ModRootBrowseBtn";
@@ -122,6 +129,7 @@
             // installBtn
             // 
             this.installBtn.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.installBtn.Font = new System.Drawing.Font("Tahoma", 7.8F);
             this.installBtn.Location = new System.Drawing.Point(15, 614);
             this.installBtn.Margin = new System.Windows.Forms.Padding(4);
             this.installBtn.Name = "installBtn";
@@ -135,16 +143,18 @@
             // 
             this.label3.AutoSize = true;
             this.label3.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.label3.Font = new System.Drawing.Font("Tahoma", 7.8F);
             this.label3.Location = new System.Drawing.Point(12, 384);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(48, 17);
+            this.label3.Size = new System.Drawing.Size(47, 17);
             this.label3.TabIndex = 7;
             this.label3.Text = "Status";
             // 
             // statusTxt
             // 
             this.statusTxt.CausesValidation = false;
+            this.statusTxt.Font = new System.Drawing.Font("Tahoma", 7.8F);
             this.statusTxt.Location = new System.Drawing.Point(15, 405);
             this.statusTxt.Margin = new System.Windows.Forms.Padding(4);
             this.statusTxt.Name = "statusTxt";
@@ -158,9 +168,10 @@
             this.resizeYes.AutoSize = true;
             this.resizeYes.Checked = true;
             this.resizeYes.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.resizeYes.Font = new System.Drawing.Font("Tahoma", 7.8F);
             this.resizeYes.Location = new System.Drawing.Point(19, 30);
             this.resizeYes.Name = "resizeYes";
-            this.resizeYes.Size = new System.Drawing.Size(56, 22);
+            this.resizeYes.Size = new System.Drawing.Size(53, 22);
             this.resizeYes.TabIndex = 10;
             this.resizeYes.TabStop = true;
             this.resizeYes.Text = "Yes";
@@ -170,9 +181,10 @@
             // 
             this.resizeNo.AutoSize = true;
             this.resizeNo.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.resizeNo.Font = new System.Drawing.Font("Tahoma", 7.8F);
             this.resizeNo.Location = new System.Drawing.Point(81, 30);
             this.resizeNo.Name = "resizeNo";
-            this.resizeNo.Size = new System.Drawing.Size(50, 22);
+            this.resizeNo.Size = new System.Drawing.Size(49, 22);
             this.resizeNo.TabIndex = 11;
             this.resizeNo.Text = "No";
             this.resizeNo.UseVisualStyleBackColor = true;
@@ -182,6 +194,7 @@
             this.groupBox1.Controls.Add(this.resizeYes);
             this.groupBox1.Controls.Add(this.resizeNo);
             this.groupBox1.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.groupBox1.Font = new System.Drawing.Font("Tahoma", 7.8F);
             this.groupBox1.Location = new System.Drawing.Point(15, 314);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(521, 67);
@@ -192,6 +205,7 @@
             // backupTexturesBtn
             // 
             this.backupTexturesBtn.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.backupTexturesBtn.Font = new System.Drawing.Font("Tahoma", 7.8F);
             this.backupTexturesBtn.Location = new System.Drawing.Point(192, 614);
             this.backupTexturesBtn.Margin = new System.Windows.Forms.Padding(4);
             this.backupTexturesBtn.Name = "backupTexturesBtn";
@@ -204,6 +218,7 @@
             // restoreTexturesBtn
             // 
             this.restoreTexturesBtn.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.restoreTexturesBtn.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.restoreTexturesBtn.Location = new System.Drawing.Point(371, 614);
             this.restoreTexturesBtn.Margin = new System.Windows.Forms.Padding(4);
             this.restoreTexturesBtn.Name = "restoreTexturesBtn";
@@ -217,6 +232,7 @@
             // 
             this.groupBox2.Controls.Add(this.label4);
             this.groupBox2.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.groupBox2.Font = new System.Drawing.Font("Tahoma", 7.8F);
             this.groupBox2.Location = new System.Drawing.Point(543, 207);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(317, 452);
@@ -227,7 +243,7 @@
             // label4
             // 
             this.label4.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.label4.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Tahoma", 8F);
             this.label4.Location = new System.Drawing.Point(9, 28);
             this.label4.Margin = new System.Windows.Forms.Padding(6);
             this.label4.Name = "label4";
@@ -250,6 +266,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
+            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(872, 671);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.groupBox2);
