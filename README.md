@@ -27,5 +27,11 @@ If this is your first time opening this program be sure to click 'Backup Game Te
     5. Done! Enjoy the texture pack in-game.
     
     
- ## Building the Project
- You will require Visual Studio in order to build the project.
+## Building the Project
+You will require Visual Studio in order to build the project.
+ 
+ 
+## Donations
+If you've found this solution useful feel free to drop some pennies my way -
+
+PayPal - [PayPal Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BS3SEUPQDJF4Q)
