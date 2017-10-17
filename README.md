@@ -34,4 +34,4 @@ You will require Visual Studio in order to build the project.
 ## Donations
 If you've found this solution useful feel free to drop some pennies my way -
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/ShaunWilkinson95)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/ShaunWilkinson95)
