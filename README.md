@@ -1,3 +1,5 @@
+![Image of Program](TextureInstaller.PNG?raw=true "Image of Software")
+
 # CSTexturePackGenerator
 _I am in no way affiliated with the creators of Colony Survival_
 
